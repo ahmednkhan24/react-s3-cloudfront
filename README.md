@@ -1,3 +1,7 @@
+# React S3 Cloudfront
+
+CI/CD pipeline to build and deploy a React app to AWS S3 through Cloudfront using GitHub Actions.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Command used:
